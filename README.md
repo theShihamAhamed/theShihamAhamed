@@ -48,17 +48,18 @@
   <a href="https://github.com/theShihamAhamed/DevOps-playground"><b>DevOps Playground</b></a>
 </p>
 
-## 🏅 AWS Training Badge
+## 🏅 AWS Credential
 
 <div align="center">
   <a href="https://www.credly.com/badges/f66f73fb-4aa9-4d03-b534-58f187b59927/public_url">
     <img
-      src="https://img.shields.io/badge/AWS%20SimuLearn-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"
-      alt="AWS SimuLearn Cloud Practitioner training badge"
+      src="./assets/aws-simulearn-cloud-practitioner.png"
+      width="150"
+      alt="AWS SimuLearn Cloud Practitioner – Training Badge"
     />
   </a>
   <br />
-  <sub>Click to verify on Credly</sub>
+  <sub><b>AWS SimuLearn – Cloud Practitioner</b> · Click the badge to verify on Credly</sub>
 </div>
 
 ---
